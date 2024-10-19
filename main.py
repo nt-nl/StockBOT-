@@ -68,10 +68,10 @@ async def ticker(ctx, stockTicker: str):
  if stockData:
    
    await ctx.send(
-      f"**Stock Ticker**: {stockTicker}\n"
-      f"**Highest Price**: ${stockData['HighestPrice']:.2f}\n" #Accessing the stockData Dictionary
-      f"**Average Price**: ${stockData['AveragePrice']:.2f}\n" #:.2f refers to displaying the answer to 2 decimal points
-      f"**Lowest Price**: ${stockData['LowestPrice']:.2f}"
+      f"**Stock Ticker (30 Days)**: {stockTicker}\n"
+      f"**Highest Price (30 Days)**: ${stockData['HighestPrice']:.2f}\n" #Accessing the stockData Dictionary
+      f"**Average Price (30 Days)**: ${stockData['AveragePrice']:.2f}\n" #:.2f refers to displaying the answer to 2 decimal points
+      f"**Lowest Price (30 Days)**: ${stockData['LowestPrice']:.2f}"
    )
 
  else:
