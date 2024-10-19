@@ -1,4 +1,4 @@
-Hello, I used this to learn Python!
+Hello, I used this to learn a little bit about Python!
 
 Welcome to StockBOT!, I created this Discord bot API which has the purpose of retrieving data about stocks through their Tickers!
 
