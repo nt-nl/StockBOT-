@@ -1,6 +1,6 @@
 Hi! to try this out yourself (the easy way), you will need to have:
 
-1. Discord
+1. Discord account
 2. Replit account
 3. Your own Discord server
 
@@ -21,7 +21,8 @@ After this, you can paste the link into your browser and add the bot to your sel
 
 
 
-We will then go over to replit and paste the code for the bot over to a new repl (use the Python template)
+We will then go over to replit and paste the code for the bot over to a new repl (use the Python template)         ![image](https://github.com/user-attachments/assets/63e44db9-e00b-4b45-8b97-692af9d6891b)
+
 
 We will now create a secret for replit for your token so that no one else looking at your project can see it!
 ![image](https://github.com/user-attachments/assets/cab774cc-65ad-493d-ad91-3fb05d48ef94)
