@@ -37,6 +37,21 @@ INSTEAD OF THIS:![image](https://github.com/user-attachments/assets/7318eb01-6f5
 
 
 
+WE WILL HAVE THIS:![image](https://github.com/user-attachments/assets/f1112126-4cdb-40d9-acdb-9630172385f7)
+
+
+
+
+AND AT THE TOP OF THE CODE: ![image](https://github.com/user-attachments/assets/4dffe7fd-f16d-4a10-b79f-d9b9b25cb666)
+
+
+And now, you can click run at the top! This will activate the bot and you can now use its commands: .hello, .ticker [YOUR TICKER]
+
+
+
+
+
+
 
 
 
