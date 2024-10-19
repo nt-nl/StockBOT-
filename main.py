@@ -1,3 +1,5 @@
+#StockBOT! By Nataniel
+
 import discord
 from discord.ext import commands
 import yfinance as yf
