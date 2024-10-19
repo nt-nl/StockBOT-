@@ -1,10 +1,10 @@
-Hi! to try this out yourself (the easy way), you will need to have:
+Hi! To try this out yourself (the easy way), you will need to have:
 
 1. Discord account
 2. Replit account
 3. Your own Discord server
 
-Firstly, go over to (https://discord.com/developers/) and login. Then you will create your own Application/Bot, name it whatever you want!
+Firstly, go over to (https://discord.com/developers/) and log in. Then you will create your own Application/Bot, name it whatever you want!
 
 Then hit reset token if you aren't sure of your current token and copy and paste it into a notepad file <---
 ![image](https://github.com/user-attachments/assets/c39bc548-22a1-424c-a58a-4e27fe3861f4)
@@ -47,9 +47,11 @@ WE WILL HAVE THIS:![image](https://github.com/user-attachments/assets/f1112126-4
 AND AT THE TOP OF THE CODE: ![image](https://github.com/user-attachments/assets/4dffe7fd-f16d-4a10-b79f-d9b9b25cb666)
 
 
-And now, you can click run at the top! you will notice the bot is now marked as online in Discord!
-This will activate the bot and you can now use its commands in your Discord server, 
-: .hello, .ticker [YOUR TICKER]
+And now, you can click run at the top! You will notice the bot is now marked as online on Discord!
+This will activate the bot and you can now use its commands in your Discord server: 
+
+.hello
+.ticker [YOUR TICKER]
 
 
 
