@@ -45,7 +45,9 @@ WE WILL HAVE THIS:![image](https://github.com/user-attachments/assets/f1112126-4
 AND AT THE TOP OF THE CODE: ![image](https://github.com/user-attachments/assets/4dffe7fd-f16d-4a10-b79f-d9b9b25cb666)
 
 
-And now, you can click run at the top! This will activate the bot and you can now use its commands: .hello, .ticker [YOUR TICKER]
+And now, you can click run at the top! you will notice the bot is now marked as online in Discord!
+This will activate the bot and you can now use its commands in your Discord server, 
+: .hello, .ticker [YOUR TICKER]
 
 
 
