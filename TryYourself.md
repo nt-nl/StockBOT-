@@ -21,16 +21,17 @@ After this, you can paste the link into your browser and add the bot to your sel
 
 
 
-We will then go over to replit and paste the code for the bot over to a new repl (use the Python template)         ![image](https://github.com/user-attachments/assets/63e44db9-e00b-4b45-8b97-692af9d6891b)
+We will then go over to replit (create an account) and select the Python template. You can then copy the code over from main.py in this repository!
 
 
 We will now create a secret for replit for your token so that no one else looking at your project can see it!
 ![image](https://github.com/user-attachments/assets/cab774cc-65ad-493d-ad91-3fb05d48ef94)
 
-After putting in your token that you had after pressing reset token
+
+After putting in your token that you had after pressing reset token (line 9)
 
 
-We will replace some of the code so that it works well with replit.
+We will now replace some of the code so that it works well with replit.
 
 INSTEAD OF THIS:![image](https://github.com/user-attachments/assets/7318eb01-6f5c-4f2c-a440-d06b2ce75366)
 
