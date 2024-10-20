@@ -15,5 +15,6 @@ So far the commands available are:
 
 
 .ticker [TICKER HERE]
+
 ![image](https://github.com/user-attachments/assets/d860b364-7012-47ee-8684-4d1ca63fc40f)
 
