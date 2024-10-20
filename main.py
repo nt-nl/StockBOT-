@@ -11,10 +11,8 @@ bot = commands.Bot(command_prefix=".", intents=discord.Intents.all())
 
 #Alerts users when the bot is ready
 @bot.event
-async def on_ready(ctx):
+async def on_ready():
     print("StockBOT! Ready")
-
-    await ctx.send("StockBOT! Ready")
 
 
 #Getting Stock Data for the past 30 days
@@ -29,7 +27,7 @@ def getStockData(stockTicker):
 #Downloading Stock Data corresponding with the calculated dates
     stock = yf.download(stockTicker, start = startDate, end = endDate)
 
-
+    
   #Checks if stock data is available
     if stock.empty:
         return None
@@ -37,7 +35,7 @@ def getStockData(stockTicker):
 
 #Calculates the information needed.
 
-    CurrentPrice = stock['Close'][-1] #[-1] is used to access the latest Close Price from the list
+    CurrentPrice = stock['Close'][-1] #[-1] is used to access the latest Close Price from the end of the list
     LowestPrice = stock['Low'].min()
     HighestPrice = stock['High'].max()
     AveragePrice = stock['Close'].mean() #This means: AveragePrice is the mean of the 'Close' dataFrame in stock (Which is what is holding the information we downloaded to it through yfinance) 
