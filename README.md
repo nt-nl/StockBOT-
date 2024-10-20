@@ -10,6 +10,8 @@ Commands:
 So far the commands available are: 
 
 .hello
+
+
 ![image](https://github.com/user-attachments/assets/4a759706-6af9-4a3c-8f94-48b6008a4259)
 
 
